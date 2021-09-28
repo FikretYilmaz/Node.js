@@ -1,0 +1,16 @@
+{
+  "name": "2-authentication",
+  "version": "1.0.0",
+  "description": "So far all the APIs we used would happily respond to any request. In reality, most APIs hold sensitive information that should not be accessible for everyone.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "node-fethc": "0.0.1-security"
+  }
+}
